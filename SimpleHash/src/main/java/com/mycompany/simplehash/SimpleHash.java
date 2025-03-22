@@ -53,7 +53,7 @@ public class SimpleHash {
                 JOptionPane.INFORMATION_MESSAGE
         );
         
-        // Implementação para utilizar o novo método getEncryptedString
+       
         String encryptedString = HashText.getEncryptedString(caracteres);
         
         JOptionPane.showMessageDialog(
